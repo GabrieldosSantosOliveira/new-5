@@ -1,0 +1,30 @@
+.card-container {
+	width: 80%;
+	padding: 5rem;
+}
+
+.author,
+.date {
+	font-size: 1.1rem;
+	font-weight: 400;
+	margin-right: 1.5rem;
+	padding: 0;
+	
+}
+
+.title {
+	color: black;
+	font-size: 1.8rem;
+}
+
+.title h2 {
+	margin: 1.2rem 0 0 0;
+	padding: 0;
+}
+.imagem{
+  width: 700px;
+  border-radius: 20px;
+    margin-top: 20px;
+
+
+}

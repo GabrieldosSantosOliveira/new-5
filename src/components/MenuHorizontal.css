@@ -1,0 +1,32 @@
+.menu-horizontal-container {
+
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+}
+
+.item-menu {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #222;
+}
+
+.item-menu:not(:last-child)::after {
+	content: '';
+	width: 1px;
+	margin: 3rem;
+	background: #E7E8EA;
+}
+
+
+.text-item-menu {
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 1.4rem;
+  margin-left: 50px;
+	margin-right: 1.5rem;
+  
+}

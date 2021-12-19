@@ -1,0 +1,24 @@
+/* .menu-vertical-container {
+	grid-area: menuvertical;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	border-right: var(--border-menu);
+}
+
+.item {
+	width: 100%;
+	height: 6.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: var(--logo-font-color);
+}
+
+.text-item {
+	font-weight: 800;
+	text-transform: uppercase;
+	font-size: 0.85rem;
+} */

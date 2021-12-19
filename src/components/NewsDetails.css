@@ -1,0 +1,30 @@
+.details-container {
+     grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+	grid-area: newscontainer;
+	max-width: 100%;
+	padding: 5rem;
+  	margin:  auto;
+}
+article{
+  width: 1000%;
+}
+.text {
+	max-width: 100rem;
+	margin: 7rem auto;
+	padding: 0 5rem;
+    margin-top: -20px;
+
+}
+
+.description {
+	font-weight: 300;
+	font-size: 1.5rem;
+	color: #444;
+}
+.imagem{
+  border-radius: 10px;
+  margin-left: 5%;
+}
